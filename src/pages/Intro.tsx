@@ -80,31 +80,19 @@ export const Intro = () => {
                             >
                                 <Box className="Bullet_Points">
                                     <Button>1</Button>
-                                    <Text
-                                        _dark={{ color: "gray.400" }}
-                                        color={"gray.900"}
-                                        fontSize={"xl"}
-                                    >
+                                    <Text _dark={{ color: "gray.400" }} color={"gray.800"}>
                                         Select a template from our collection.
                                     </Text>
                                 </Box>
                                 <Box className="Bullet_Points">
                                     <Button>2</Button>
-                                    <Text
-                                        _dark={{ color: "gray.400" }}
-                                        color={"gray.900"}
-                                        fontSize={"xl"}
-                                    >
+                                    <Text _dark={{ color: "gray.400" }} color={"gray.800"}>
                                         Build you resume using our easy to use resume builder.
                                     </Text>
                                 </Box>
                                 <Box className="Bullet_Points">
                                     <Button>3</Button>
-                                    <Text
-                                        _dark={{ color: "gray.400" }}
-                                        color={"gray.900"}
-                                        fontSize={"xl"}
-                                    >
+                                    <Text _dark={{ color: "gray.400" }} color={"gray.800"}>
                                         Download your resume.
                                     </Text>
                                 </Box>
